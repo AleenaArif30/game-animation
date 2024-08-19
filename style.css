@@ -1,0 +1,19 @@
+*{
+    overflow: hidden;
+    margin: 0px;
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    background-image: url("https://wallpaperaccess.com/full/5927911.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+
+}
+.characters{
+    height: 200px;
+    width: 150px;
+    position: absolute;
+    bottom: 20px;
+}
